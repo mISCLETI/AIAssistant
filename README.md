@@ -55,7 +55,7 @@
    - Найдите бота в Telegram по имени (@ISC_FinConsult_bot).
    - Начните диалог с командой /start.
 ## Скриншот 
-![Иллюстрация к проекту]([https://github.com/mISCLETI/AIAssistant/blob/main/GithubScr.png?raw=true])
+![Иллюстрация к проекту](https://github.com/mISCLETI/AIAssistant/blob/main/GithubScr.png?raw=true)
 ## Преимущества
 
 - **Автоматизация**: Больше не нужно вручную вести таблицы или записывать расходы — все делается через Telegram.
